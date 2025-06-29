@@ -1,5 +1,5 @@
 # personal-fin-wallet
-A Personal Financial Management Wallet app for self-monitoring, built using Nodejs and Express (Backend) and React Native (Mobile).
+A Personal Financial Management Wallet app for self-expense tracking and monitoring, built with React Native (Mobile), and with Nodejs and Express (Backend).
 
 ## Features
 
